@@ -106,3 +106,4 @@ dist
 # IntelliJ
 .idea/*
 *.iml
+service_account.json
